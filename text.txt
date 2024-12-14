@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 Hello Git 123
 It's new line. Test
 Branch
-=======
 Hello Git
->>>>>>> parent of 6f690d8 (Secondary commit)
+
